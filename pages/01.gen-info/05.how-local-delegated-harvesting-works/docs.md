@@ -1,5 +1,5 @@
 ---
-title: 'How Local and Delegated Havesting Work'
+title: 'How Local and Delegated Harvesting Work'
 taxonomy:
     category: docs
 ---
